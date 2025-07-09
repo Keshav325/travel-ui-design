@@ -43,7 +43,7 @@ const Hero = () => {
         <Butoon
         type="button"
         title="Download app"
-        icon={null}
+        
         varient="btn_green"
        />
        <Butoon

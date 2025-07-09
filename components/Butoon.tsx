@@ -4,8 +4,8 @@ import { PAGE_TYPES } from 'next/dist/lib/page-types';
 type ButtonProps= {
     type: 'button' | 'submit';
     title: string;
-    icon: string;
-    varient:string;
+    icon?: string;
+    varient: string;
 }
 
 const Butoon = ({type , title , icon , varient}: ButtonProps) => {

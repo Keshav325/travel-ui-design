@@ -29,7 +29,7 @@ const Navbar = () => {
           type="button"
           title="LogIn" 
           icon="/user.svg"
-          varient="btn_dark_green"/>
+          variant="btn_dark_green"/>
       </div>
       <div   className="inline-block cursor-pointer lg:hidden" >
     <button onClick={()=> setMenuOpen(!menuOpen)}><Image

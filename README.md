@@ -1,36 +1,128 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 Travel UI/UX Design – Tailwind Practice Project
 
-## Getting Started
+This is a clean, responsive, and modern travel-themed UI/UX website built with **Next.js** and **Tailwind CSS**. It was developed as a front-end design practice project focused on improving layout structure, component reusability, and styling with utility-first CSS.
 
-First, run the development server:
+![Screenshot](./public/preview.png) <!-- Replace with actual screenshot path -->
 
+---
+
+## 🚀 Features
+
+- 🌐 Fully responsive layout for all screen sizes
+- 🎨 UI designed using Tailwind's utility classes
+- 🔁 Reusable components (Navbar, Footer, Hero, Cards, etc.)
+- 📱 Mobile-friendly menu with toggle animation
+- 🎯 Minimal, travel-focused design aesthetic
+- ⚡ Fast performance with optimized Next.js rendering
+
+---
+
+## 📂 Project Structure
+
+# 🌍 Travel UI/UX Design – Tailwind Practice Project
+
+This is a clean, responsive, and modern travel-themed UI/UX website built with **Next.js** and **Tailwind CSS**. It was developed as a front-end design practice project focused on improving layout structure, component reusability, and styling with utility-first CSS.
+
+![Screenshot](./public/preview.png) <!-- Replace with actual screenshot path -->
+
+---
+
+## 🚀 Features
+
+- 🌐 Fully responsive layout for all screen sizes
+- 🎨 UI designed using Tailwind's utility classes
+- 🔁 Reusable components (Navbar, Footer, Hero, Cards, etc.)
+- 📱 Mobile-friendly menu with toggle animation
+- 🎯 Minimal, travel-focused design aesthetic
+- ⚡ Fast performance with optimized Next.js rendering
+
+---
+
+## 📂 Project Structure
+
+# 🌍 Travel UI/UX Design – Tailwind Practice Project
+
+This is a clean, responsive, and modern travel-themed UI/UX website built with **Next.js** and **Tailwind CSS**. It was developed as a front-end design practice project focused on improving layout structure, component reusability, and styling with utility-first CSS.
+
+![Screenshot](./public/preview.png) <!-- Replace with actual screenshot path -->
+
+---
+
+## 🚀 Features
+
+- 🌐 Fully responsive layout for all screen sizes
+- 🎨 UI designed using Tailwind's utility classes
+- 🔁 Reusable components (Navbar, Footer, Hero, Cards, etc.)
+- 📱 Mobile-friendly menu with toggle animation
+- 🎯 Minimal, travel-focused design aesthetic
+- ⚡ Fast performance with optimized Next.js rendering
+
+---
+
+## 📂 Project Structure
+
+travel-ui-design/
+├── components/ # Reusable UI components (Navbar, Footer, Cards, etc.)
+├── pages/ # Next.js routing pages
+├── public/ # Static assets (images, icons, etc.)
+├── styles/ # Global CSS if needed
+├── tailwind.config.js
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons & Assets:** SVGs and free-use travel images
+- **Deployment:** [Vercel](https://vercel.com)
+
+---
+
+## 📦 Getting Started
+
+### Clone the repo:
 ```bash
+git clone https://github.com/Keshav325/travel-ui-design.git
+cd travel-ui-design
+Install dependencies:
+bash
+Copy code
+npm install
+Run development server:
+bash
+Copy code
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The app will be available at http://localhost:3000
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✅ What I Practiced
+Mastery of Tailwind CSS utility classes
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Component-based architecture in React/Next.js
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Mobile-first responsive design
 
-## Learn More
+Clean UI layout for real-world use cases
 
-To learn more about Next.js, take a look at the following resources:
+📸 Demo
+Live Demo: https://travel-ui-design.vercel.app
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🙋‍♂️ Author
+Keshav Jha
+📫 keshavjha122006@gmail.com
+🌐 Portfolio (Coming Soon)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📄 License
+This project is open source and available under the MIT License.
 
-## Deploy on Vercel
+vbnet
+Copy code
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Let me know if you'd like:
+- Custom badges
+- A walkthrough GIF or screenshot
+- A section like “Future Improvements” or “Known Issues”

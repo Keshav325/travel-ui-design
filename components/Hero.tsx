@@ -44,13 +44,13 @@ const Hero = () => {
         type="button"
         title="Download app"
         
-        varient="btn_green"
+        variant="btn_green"
        />
        <Butoon
         type="button"
         title="How we work?"
         icon="/play.svg"
-        varient="btn_white_text"
+        variant="btn_white_text"
        />
        
       </div>
